@@ -1,4 +1,4 @@
-# image contour & points matching algorithm  
+# Image contour & points matching algorithm  
   
   
 <p align="center">
